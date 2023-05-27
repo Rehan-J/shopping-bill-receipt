@@ -1,0 +1,61 @@
+		****************
+		SAR Grocery Shop
+		****************
+Your Bill
+
+ Customer: rizwan				Cashier name : rehan 
+
+	------------------------------------------------
+	Name of Item	Quantity	Price	Amount
+	------------------------------------------------
+	apple		4		12	48
+	jam		6		45	270
+
+	_______________________________________________
+	Total Quantity:10		   Total: 318
+	_______________________________________________
+
+			**PAYMENT SUMMARY
+
+			Total cash given: 500
+			Balance: 182
+			****************
+			SAR Grocery Shop
+			****************
+Your Bill
+
+ Customer: fatima				Cashier name : hello
+
+	------------------------------------------------
+	Name of Item	Quantity	Price	Amount
+	------------------------------------------------
+	soap		3		78	234
+
+	_______________________________________________
+	Total Quantity:3		   Total: 234
+	_______________________________________________
+
+			**PAYMENT SUMMARY
+
+			Total cash given: 500
+			Balance: 266
+			****************
+			SAR Grocery Shop
+			****************
+Your Bill
+
+ Customer: hht				Cashier name : rere
+
+	------------------------------------------------
+	Name of Item	Quantity	Price	Amount
+	------------------------------------------------
+	hgh		3		56	168
+
+	_______________________________________________
+	Total Quantity:3		   Total: 168
+	_______________________________________________
+
+			**PAYMENT SUMMARY
+
+			Total cash given: 566
+			Balance: 398
